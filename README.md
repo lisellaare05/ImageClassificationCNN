@@ -60,10 +60,3 @@ To use the trained model for classification:
 - Optimize model architecture for higher accuracy.
 - Deploy the model as a web app for real-time classification.
 
----
-### Author
-Lisella Are
-
-### License
-This project is for educational purposes. Modify and use as needed.
-
