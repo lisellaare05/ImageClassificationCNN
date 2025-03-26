@@ -1,5 +1,3 @@
-# ImageClassificationCNN
-
 # Injury Classification Using CNN
 
 ## Overview
